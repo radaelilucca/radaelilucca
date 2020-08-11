@@ -18,11 +18,7 @@
 
 <h3 style="color:#C2A8F3"> 📝 Some Github stats: </h3>
 
-<div align="center">
-
-![Lucca's github stats](https://github-readme-stats.vercel.app/api?username=radaelilucca&show_icons=true&hide_border=false&theme=tokyonight&hide_title=true)
-
-</div>
+![Lucca's github stats](https://github-readme-stats.vercel.app/api?username=radaelilucca&show_icons=true&hide_border=false&theme=tokyonight&hide_title=true) <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height=165px>
 
 <h3 style="color:#C2A8F3"> 🤙 Connect with me:  </h3>
 
