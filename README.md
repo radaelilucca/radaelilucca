@@ -1,9 +1,9 @@
 <div style="background: #1A1F2C; color:#27C1B6; padding: 18px; border-radius: 16px">
 <h2 style="color:#C2A8F3"> 👋 Hello world! </h2>
 
-<div style="float: right; margin-left: 20px">
+<!-- <div style="float: right; margin-left: 20px">
    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height=180px>
-</div>
+</div> -->
 <p align="left" color="#C2A8F3">
      &nbsp Hi, I'm Lucca, a Full Stack Developer 🚀 from Brazil, currently, I am open for oportunities. I'm a creative problem solving enthusiast, with a constantly growing love for React ⚛️. Beside's programming, I enjoy RTS Games and right now I'm trying to beat my Girlfriend's strategy on Civilization VI!
 </p>
@@ -18,7 +18,11 @@
 
 <h3 style="color:#C2A8F3"> 📝 Some Github stats: </h3>
 
+<div align="center">
+
 ![Lucca's github stats](https://github-readme-stats.vercel.app/api?username=radaelilucca&show_icons=true&hide_border=false&theme=tokyonight&hide_title=true) <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height=165px>
+
+</div>
 
 <h3 style="color:#C2A8F3"> 🤙 Connect with me:  </h3>
 
