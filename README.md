@@ -5,7 +5,7 @@
    <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height=180px>
 </div> -->
 <p align="left" color="#C2A8F3">
-     &nbsp Hi, I'm Lucca, a Full Stack Developer from Brazil, currently, I am open for oportunities. I'm a creative problem solving enthusiast, with a constantly growing love for React ⚛️. Beside's programming, I enjoy different kind of Games and right now I'm trying to beat my Girlfriend's strategy on Civilization VI!
+     &nbsp Hi, I'm Lucca, a Full Stack Developer from Brazil, currently, I am open for oportunities. I'm a creative problem solving enthusiast, with a constantly growing love for React ⚛️. Beside's programming, I enjoy different kind of Games and right now I'm probably trying to beat my Girlfriend's strategy in Civilization VI!
 </p>
 
 <h3 style="color:#C2A8F3"> 🧰 Toolbox:  </h3>
