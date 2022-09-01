@@ -27,7 +27,7 @@
 <h3 style="color:#C2A8F3"> 🤙 Connect with me:  </h3>
 
 [![Github](https://img.shields.io/badge/-Github-41414d?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/radaelilucca)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/murillo-comino-6124ab49/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luccaradaeli/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:luccaradaeli@gmail.com)
 
 </div>
