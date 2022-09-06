@@ -1,22 +1,43 @@
-<div style="background: #1A1F2C; color:#27C1B6; padding: 18px; border-radius: 16px">
-<h2 style="color:#C2A8F3"> 👋 Hello world! </h2>
+# 👋 Hello world!
 
-<!-- <div style="float: right; margin-left: 20px">
-   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height=180px>
-</div> -->
-<p align="left" color="#C2A8F3">
-     &nbsp Hi, I'm Lucca, a Full Stack Developer from Brazil, currently I am open for oportunities. I'm a creative problem solving enthusiast, with a constantly growing love for React ⚛️. Besides programming, I enjoy different kind of Games and right now I'm probably trying to beat my Girlfriend's strategy in Civilization VI!
-</p>
+Hi, I'm Lucca, a Front-end Developer from Brazil, experienced with React, Next, Typescript and currently I am seeking for new challenges! I'm a creative problem solving enthusiast, always looking for learn and share what I learned with the people around me.
 
-<h3 style="color:#C2A8F3"> 🧰 Toolbox:  </h3>
-⚠️ under construction ⚠️ 
- 
-<!-- <div style="height: 80px; width: 100px; background: #fff; border-radius: 19px; box-shadow: 8px 8px; display: flex; justify-content: center; align-items: center;">
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png" width=80px/>
+## Main stack
 
-</div> -->
+### Languages
 
-<h3 style="color:#C2A8F3"> 📝 Some Github stats: </h3>
+<img src="/assets/ts.png" alt="Typescript logo"/>
+<img src="/assets/js.png" alt="javascript logo"/>
+<img src="/assets/HTML.png" alt="HTML logo"/>
+<img src="/assets/CSS.png" alt="CSS logo"/>
+
+<br>
+
+### Frontend frameworks and tools
+
+<img src="/assets/react.png" alt="React logo"/>
+<img src="/assets/next.png" alt="Next.js logo"/>
+
+<img src="/assets/recoil.png" alt="Recoil logo"/>
+<img src="/assets/redux.png" alt="Redux logo"/>
+
+<img src="/assets/sass.png" alt="SASS logo"/>
+<img src="/assets/styled.png" alt="Styled Components logo"/>
+
+<img src="/assets/jest.png" alt="Jest logo"/>
+
+<br>
+
+### Backend frameworks and tools
+
+<img src="/assets/node.png" alt="Node.Js logo"/>
+<img src="/assets/postgres.png" alt="Postgresql logo"/>
+<img src="/assets/typeorm.png" alt="Typeorm logo"/>
+<img src="/assets/jest.png" alt="Jest logo"/>
+
+<br>
+
+## 📝 Some Github stats
 
 <div align="center">
 
@@ -24,7 +45,11 @@
 
 </div>
 
-<h3 style="color:#C2A8F3"> 🤙 Connect with me:  </h3>
+<br>
+
+## 🤙 Connect with me
+
+<br>
 
 [![Github](https://img.shields.io/badge/-Github-41414d?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/radaelilucca)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/luccaradaeli/)
