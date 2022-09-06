@@ -44,7 +44,7 @@ Hi, I'm Lucca, a Front-end Developer from Brazil, experienced with React, Next, 
 
 <div align="center">
 
-![Lucca's github stats](https://github-readme-stats.vercel.app/api?username=radaelilucca&show_icons=true&hide_border=false&theme=tokyonight&hide_title=true) <img width="80" height="80" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height=165px>
+![Lucca's github stats](https://github-readme-stats.vercel.app/api?username=radaelilucca&show_icons=true&hide_border=false&theme=tokyonight&hide_title=true) <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height=165px>
 
 </div>
 
