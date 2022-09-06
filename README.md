@@ -6,34 +6,37 @@ Hi, I'm Lucca, a Front-end Developer from Brazil, experienced with React, Next, 
 
 ### Languages
 
-<img width="80" height="80" src="/assets/ts.png" alt="Typescript logo"/>
-<img width="80" height="80" src="/assets/js.png" alt="javascript logo"/>
-<img width="80" height="80" src="/assets/HTML.png" alt="HTML logo"/>
-<img width="80" height="80" src="/assets/CSS.png" alt="CSS logo"/>
+<div>
+   <img width="80" height="80" src="/assets/ts.png" alt="Typescript logo"/>
+   <img width="80" height="80" src="/assets/js.png" alt="javascript logo"/>
+   <img width="80" height="80" src="/assets/HTML.png" alt="HTML logo"/>
+   <img width="80" height="80" src="/assets/CSS.png" alt="CSS logo"/>
+</div>
 
 <br>
 
 ### Frontend frameworks and tools
 
+<div>
 <img width="80" height="80" src="/assets/react.png" alt="React logo"/>
 <img width="80" height="80" src="/assets/next.png" alt="Next.js logo"/>
-
 <img width="80" height="80" src="/assets/recoil.png" alt="Recoil logo"/>
 <img width="80" height="80" src="/assets/redux.png" alt="Redux logo"/>
-
 <img width="80" height="80" src="/assets/sass.png" alt="SASS logo"/>
 <img width="80" height="80" src="/assets/styled.png" alt="Styled Components logo"/>
-
 <img width="80" height="80" src="/assets/jest.png" alt="Jest logo"/>
+</div>
 
 <br>
 
 ### Backend frameworks and tools
 
-<img width="80" height="80" src="/assets/node.png" alt="Node.Js logo"/>
+<div>
+<img width="80" height="80" src="/assets/nodejs.png" alt="Node.Js logo"/>
 <img width="80" height="80" src="/assets/postgres.png" alt="Postgresql logo"/>
 <img width="80" height="80" src="/assets/typeorm.png" alt="Typeorm logo"/>
 <img width="80" height="80" src="/assets/jest.png" alt="Jest logo"/>
+</div>
 
 <br>
 
