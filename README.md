@@ -6,34 +6,34 @@ Hi, I'm Lucca, a Front-end Developer from Brazil, experienced with React, Next, 
 
 ### Languages
 
-<img src="/assets/ts.png" alt="Typescript logo"/>
-<img src="/assets/js.png" alt="javascript logo"/>
-<img src="/assets/HTML.png" alt="HTML logo"/>
-<img src="/assets/CSS.png" alt="CSS logo"/>
+<img width="80" height="80" src="/assets/ts.png" alt="Typescript logo"/>
+<img width="80" height="80" src="/assets/js.png" alt="javascript logo"/>
+<img width="80" height="80" src="/assets/HTML.png" alt="HTML logo"/>
+<img width="80" height="80" src="/assets/CSS.png" alt="CSS logo"/>
 
 <br>
 
 ### Frontend frameworks and tools
 
-<img src="/assets/react.png" alt="React logo"/>
-<img src="/assets/next.png" alt="Next.js logo"/>
+<img width="80" height="80" src="/assets/react.png" alt="React logo"/>
+<img width="80" height="80" src="/assets/next.png" alt="Next.js logo"/>
 
-<img src="/assets/recoil.png" alt="Recoil logo"/>
-<img src="/assets/redux.png" alt="Redux logo"/>
+<img width="80" height="80" src="/assets/recoil.png" alt="Recoil logo"/>
+<img width="80" height="80" src="/assets/redux.png" alt="Redux logo"/>
 
-<img src="/assets/sass.png" alt="SASS logo"/>
-<img src="/assets/styled.png" alt="Styled Components logo"/>
+<img width="80" height="80" src="/assets/sass.png" alt="SASS logo"/>
+<img width="80" height="80" src="/assets/styled.png" alt="Styled Components logo"/>
 
-<img src="/assets/jest.png" alt="Jest logo"/>
+<img width="80" height="80" src="/assets/jest.png" alt="Jest logo"/>
 
 <br>
 
 ### Backend frameworks and tools
 
-<img src="/assets/node.png" alt="Node.Js logo"/>
-<img src="/assets/postgres.png" alt="Postgresql logo"/>
-<img src="/assets/typeorm.png" alt="Typeorm logo"/>
-<img src="/assets/jest.png" alt="Jest logo"/>
+<img width="80" height="80" src="/assets/node.png" alt="Node.Js logo"/>
+<img width="80" height="80" src="/assets/postgres.png" alt="Postgresql logo"/>
+<img width="80" height="80" src="/assets/typeorm.png" alt="Typeorm logo"/>
+<img width="80" height="80" src="/assets/jest.png" alt="Jest logo"/>
 
 <br>
 
@@ -41,7 +41,7 @@ Hi, I'm Lucca, a Front-end Developer from Brazil, experienced with React, Next, 
 
 <div align="center">
 
-![Lucca's github stats](https://github-readme-stats.vercel.app/api?username=radaelilucca&show_icons=true&hide_border=false&theme=tokyonight&hide_title=true) <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height=165px>
+![Lucca's github stats](https://github-readme-stats.vercel.app/api?username=radaelilucca&show_icons=true&hide_border=false&theme=tokyonight&hide_title=true) <img width="80" height="80" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" height=165px>
 
 </div>
 
