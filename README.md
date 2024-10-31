@@ -1,6 +1,6 @@
 # 👋 Hello world!
 
-Hi, I'm Lucca, a Front-end Developer from Brazil, experienced with React, Next, Typescript and currently I am seeking for new challenges! I'm a creative problem solving enthusiast, always looking for learn and share what I learned with the people around me.
+Hi, I'm Lucca, a Software Engineer from Brazil with 5+ years of professional expericience. I'm a creative problem solving enthusiast, always looking for learn and share what I learned with the people around me.
 
 ## Main stack
 
